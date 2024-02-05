@@ -19,6 +19,7 @@ In this space, you'll find a mix of repositories ranging from small experiments 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions, ideas for collaboration, or just want to say hi! I'm always open to discussing new ideas and opportunities. Let's make something awesome together! 💡✨
 
+--- 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
