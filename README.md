@@ -1,6 +1,6 @@
-## Welcome to My GitHub Profile! 🌟
+## Hi there! 👋 
 
-Hi there! 👋 I'm Mariana, a Civil Engineer diving into Software Engineering. Passionate about learning, I'm working on a second degree to get into the tech world.
+I'm Mariana, a Civil Engineer diving into Software Engineering. Passionate about learning, I'm working on a second degree to get into the tech world.
 
 --- 
 
